@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+    background-color:rgb(207, 177, 203);
+}
+P:hover{
+    background-image: linear-gradient(violet,lightblue);
+}
+h1{
+    text-align: center;
+}
+
+.link-nav{
+    text-decoration: none;
+}
+.link-header{
+    text-decoration: none;
+}
